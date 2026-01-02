@@ -8,7 +8,7 @@ I learned how to use aggregate functions, math functions, date functions and CAS
 COUNT(), SUM(), AVG(), MAX(), MIN()
 Learned WHERE vs HAVING and usage with GROUP BY
 
-🧮 Mathematical Functions:
+🧮 Mathematical Functions: 
 ROUND(), SQRT(), ABS(), price/1000
 
 📝 String / Pattern Matching:
